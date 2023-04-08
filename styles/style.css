@@ -106,7 +106,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 40%;
     border-radius: 18px;
     border: 2px solid var(--cor-terciaria);
     box-shadow: 10px 10px 12px var(--cor-terciaria);
