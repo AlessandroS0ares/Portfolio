@@ -17,5 +17,3 @@
 ### Linkedin: https://www.linkedin.com/in/alessandro-soares-313792271/
 
 ```
-
-Veja que legal como fica a página inicial do repositório:
